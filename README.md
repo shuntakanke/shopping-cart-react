@@ -1,5 +1,7 @@
 # shopping-cart-react
 
+https://www.youtube.com/watch?v=nKyrXWH5XLM&t
+
 コピペだけで初めて理解できました！！
 
 👍
